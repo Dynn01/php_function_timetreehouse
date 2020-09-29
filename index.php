@@ -154,4 +154,4 @@ br();
 // menambahkan nilai pada array
 array_walk($team,function($value, $key){
     echo "$key is a $value \n";
-});
+}); 
